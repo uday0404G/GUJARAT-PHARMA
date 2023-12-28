@@ -96,7 +96,17 @@
 
 @media (max-width: 480px) {
 
+   .b h1{
+text-shadow: none;
+font-weight: 500;
+}
+.c {
+    text-shadow: none;
+    font-weight: 500;
+    }
     .b span{
+text-shadow: none;
+
         font-size: 47px !important;
     }
     .navbar{

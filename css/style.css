@@ -64,7 +64,9 @@ a{
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/doctor-8264057_1920.jpg);
+  background-position: top;
+  background-size: cover;
 }
 
 .sub_page .hero_area {

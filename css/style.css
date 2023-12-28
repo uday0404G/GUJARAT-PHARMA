@@ -3,7 +3,11 @@ body {
   color: #000000;
   background-color: #ffffff;
 }
+.b{
 
+
+  text-shadow: -2px 2px 5px #cab6aa;
+}
 .layout_padding {
   padding: 100px 0;
 }
